@@ -43,3 +43,6 @@ optional arguments:
 ```
 python3 dirbust.py -u https://target.com -w /path/to/wordlist/sample-list.txt -t 10
 ```
+#### Test run
+[![dirbust](https://asciinema.org/a/4UxvvJY3OozvErCUDlIn8RoVq)](https://asciinema.org/a/4UxvvJY3OozvErCUDlIn8RoVq)
+
