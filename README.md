@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-#### Installation and Usage:
+#### Installation
 
 Copy-paste this into your terminal:
 
@@ -19,6 +19,7 @@ cd dirbust
 ```
 python3 dirbust.py -h
 ```
+#### Usage
 ``` 
     _ _     _           _   
   _| |_|___| |_ _ _ ___| |_ 
@@ -37,4 +38,7 @@ optional arguments:
                         The wordlist to use
   -t THREADS, --threads THREADS
                         Number of threads (default: 10)
+```
+#### Example
+```
 ```
