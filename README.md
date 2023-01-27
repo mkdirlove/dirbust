@@ -11,7 +11,7 @@
 Copy-paste this into your terminal:
 
 ```sh
-https://github.com/mkdirlove/dirbust.git
+git clone https://github.com/mkdirlove/dirbust.git
 ```
 ```
 cd dirbust
