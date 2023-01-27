@@ -41,4 +41,5 @@ optional arguments:
 ```
 #### Example
 ```
+python3 dirbust.py -u https://target.com -w /path/to/wordlist/sample-list.txt -t 10
 ```
