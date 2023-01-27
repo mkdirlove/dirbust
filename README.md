@@ -11,11 +11,11 @@
 Copy-paste this into your terminal:
 
 ```sh
-sudo curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch -o /usr/bin/osfetch
+https://github.com/mkdirlove/dirbust.git
 ```
 ```
-sudo chmod +x /usr/bin/osfetch
+cd dirbust
 ```
 ```
-osfetch
+python3 dirbust.py -h
 ```
