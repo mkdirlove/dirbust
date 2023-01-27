@@ -18,4 +18,22 @@ cd dirbust
 ```
 ```
 python3 dirbust.py -h
+
+    _ _     _           _   
+  _| |_|___| |_ _ _ ___| |_ 
+ | . | |  _| . | | |_ -|  _|
+ |___|_|_| |___|___|___|_|
+   Developed by DefacerPH  
+    
+usage: dirbust.py [-h] -u URL -w WORDLIST [-t THREADS]
+
+DirBust - Yet another tool for bruteforcing web contents and directories.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -u URL, --url URL     The URL to brute force
+  -w WORDLIST, --wordlist WORDLIST
+                        The wordlist to use
+  -t THREADS, --threads THREADS
+                        Number of threads (default: 10)
 ```
