@@ -13,10 +13,10 @@ Copy-paste this into your terminal:
 ```sh
 git clone https://github.com/mkdirlove/dirbust.git
 ```
-```
+```sh
 cd dirbust
 ```
-```
+```sh
 python3 dirbust.py -h
 ```
 #### Usage
@@ -40,7 +40,7 @@ optional arguments:
                         Number of threads (default: 10)
 ```
 #### Example
-```
+```sh
 python3 dirbust.py -u https://target.com -w /path/to/wordlist/sample-list.txt -t 10
 ```
 
