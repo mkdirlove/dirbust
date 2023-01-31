@@ -65,9 +65,7 @@ def slowprint(s):
 		sys.stdout.flush()
 		sleep(0.01/10)
 
-def prepare(myList,numOfChunks):
-    for i in range(0, len(myList), numOfChunks):
-        yield myList[i:i + numOfChunks]
+
 
 def brute(myList,url):
     start=time.perf_counter()
